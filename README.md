@@ -1,0 +1,1 @@
+# cake-docker-compose-base
