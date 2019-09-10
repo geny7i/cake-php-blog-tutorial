@@ -1,1 +1,1 @@
-# cake-docker-compose-base
+# cake-blog-tutorial
